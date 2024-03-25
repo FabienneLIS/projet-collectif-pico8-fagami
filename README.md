@@ -7,9 +7,9 @@ Le personnage explore une pyramide hantée.
 
 ## dévelloppeurs/ses
 
-![Émilie Respingue](https://github.com/EmilieRespingue)
-![Fabienne Lis](https://github.com/FabienneLIS)
-![Gaetane Seguin](https://github.com/GaetaneSeguin)
+![Émilie Respingue](https://github.com/EmilieRespingue)  
+![Fabienne Lis](https://github.com/FabienneLIS)  
+![Gaetane Seguin](https://github.com/GaetaneSeguin)  
 
 ## Langages utilisés
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
