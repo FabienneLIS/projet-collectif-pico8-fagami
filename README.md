@@ -2,9 +2,10 @@
 
 ## Présentation
 
-C'est un projet collectif qui développe la création d’un petit jeu en pico8. Il a été créé en Octoble 2023.
-Le projet a duré 7 jours.
-Le personnage explore une pyramide hantée.
+C'est un projet collectif qui développe la création d’un petit jeu en pico8.  
+  Il a été créé en Octoble 2023.
+  Le projet a duré 7 jours.
+  Le personnage explore une pyramide hantée.
 
 ## dévelloppeurs/ses
 
